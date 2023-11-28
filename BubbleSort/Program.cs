@@ -23,7 +23,7 @@ namespace BubbleSort
             {
                 Console.Write(cislo + "|");
             }
-            Console.WriteLine("\n");
+            Console.Write("\n");
         }
 
         static void BubbleSort(int[] pole)
