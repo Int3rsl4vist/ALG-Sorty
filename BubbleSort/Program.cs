@@ -10,7 +10,7 @@ namespace BubbleSort
     {
         static void Main(string[] args)
         {
-            Random random = new Random();
+            Random nahoda = new Random();
             Console.WriteLine("Zadejte délku pole:");
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             int delkaPole = int.Parse(Console.ReadLine());
