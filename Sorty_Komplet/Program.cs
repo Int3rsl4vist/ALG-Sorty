@@ -102,8 +102,7 @@ namespace Sorty_Komplet
             {
                 int index = pole[i];
                 int j;
-
-                // Přesunout prvky pole, které jsou větší než key, na jednu pozici dopředu
+
                 for (j = i - 1; j >= 0 && pole[j] > index; j--)
                 {
                     pole[j + 1] = pole[j];
