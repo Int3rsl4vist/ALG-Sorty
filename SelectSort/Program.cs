@@ -11,7 +11,16 @@ namespace SelectSort
     {
         static void Main(string[] args)
         {
-            int[] pole = { -5, 8, -2, 3, -7, 6, 0, -9, 4, 1, 12, 19, -8, -23, 14};
+            Random random = new Random();
+            Console.WriteLine("Zadejte délku pole:");
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            int delkaPole = int.Parse(Console.ReadLine());
+            Console.ForegroundColor= ConsoleColor.White;
+            int[] pole = new int[delkaPole];
+            for (int i = 0; i < delkaPole -1; i++)
+            {
+                pole[i] = random.Next(-100, 101);
+            }
             Console.WriteLine("Neseřazené pole:");
             foreach (int cislo in pole)
             {
