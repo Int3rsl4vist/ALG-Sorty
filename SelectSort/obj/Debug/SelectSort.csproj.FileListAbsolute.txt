@@ -1,0 +1,7 @@
+C:\Users\inter\OneDrive\Plocha\ALG\SelectSort\SelectSort\bin\Debug\SelectSort.exe.config
+C:\Users\inter\OneDrive\Plocha\ALG\SelectSort\SelectSort\bin\Debug\SelectSort.exe
+C:\Users\inter\OneDrive\Plocha\ALG\SelectSort\SelectSort\bin\Debug\SelectSort.pdb
+C:\Users\inter\OneDrive\Plocha\ALG\SelectSort\SelectSort\obj\Debug\SelectSort.csproj.AssemblyReference.cache
+C:\Users\inter\OneDrive\Plocha\ALG\SelectSort\SelectSort\obj\Debug\SelectSort.csproj.CoreCompileInputs.cache
+C:\Users\inter\OneDrive\Plocha\ALG\SelectSort\SelectSort\obj\Debug\SelectSort.exe
+C:\Users\inter\OneDrive\Plocha\ALG\SelectSort\SelectSort\obj\Debug\SelectSort.pdb
