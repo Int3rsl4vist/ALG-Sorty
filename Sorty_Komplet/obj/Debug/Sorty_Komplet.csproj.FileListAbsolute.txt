@@ -1,0 +1,7 @@
+C:\Users\inter\OneDrive\Plocha\ALG\Sorty_Komplet\bin\Debug\Sorty_Komplet.exe.config
+C:\Users\inter\OneDrive\Plocha\ALG\Sorty_Komplet\bin\Debug\Sorty_Komplet.exe
+C:\Users\inter\OneDrive\Plocha\ALG\Sorty_Komplet\bin\Debug\Sorty_Komplet.pdb
+C:\Users\inter\OneDrive\Plocha\ALG\Sorty_Komplet\obj\Debug\Sorty_Komplet.csproj.AssemblyReference.cache
+C:\Users\inter\OneDrive\Plocha\ALG\Sorty_Komplet\obj\Debug\Sorty_Komplet.csproj.CoreCompileInputs.cache
+C:\Users\inter\OneDrive\Plocha\ALG\Sorty_Komplet\obj\Debug\Sorty_Komplet.exe
+C:\Users\inter\OneDrive\Plocha\ALG\Sorty_Komplet\obj\Debug\Sorty_Komplet.pdb
