@@ -39,6 +39,11 @@ namespace BubbleSort
                         pole[j + 1] = prozatimni;
                     }
                 }
+                Console.Write("\n");
+                foreach(int cislo in pole)
+                {
+                    Console.Write(cislo + "|");
+                }
             }
         }
     }
