@@ -17,7 +17,7 @@ namespace BubbleSort
                 Console.Write(cislo + "|");
             }
 
-            BubbleSort(pole);
+            Sort(pole);
             Console.WriteLine("\n \nSeřazené pole:");
             foreach (int cislo in pole)
             {
@@ -26,7 +26,7 @@ namespace BubbleSort
             Console.Write("\n");
         }
 
-        static void BubbleSort(int[] pole)
+        static void Sort(int[] pole)
         {
             for (int i = 0; i < pole.Length - 1; i++)
             {
