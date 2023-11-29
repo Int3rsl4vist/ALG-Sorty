@@ -1,0 +1,7 @@
+C:\Users\inter\OneDrive\Plocha\ALG\InsertSort\bin\Debug\InsertSort.exe.config
+C:\Users\inter\OneDrive\Plocha\ALG\InsertSort\bin\Debug\InsertSort.exe
+C:\Users\inter\OneDrive\Plocha\ALG\InsertSort\bin\Debug\InsertSort.pdb
+C:\Users\inter\OneDrive\Plocha\ALG\InsertSort\obj\Debug\InsertSort.csproj.AssemblyReference.cache
+C:\Users\inter\OneDrive\Plocha\ALG\InsertSort\obj\Debug\InsertSort.csproj.CoreCompileInputs.cache
+C:\Users\inter\OneDrive\Plocha\ALG\InsertSort\obj\Debug\InsertSort.exe
+C:\Users\inter\OneDrive\Plocha\ALG\InsertSort\obj\Debug\InsertSort.pdb
